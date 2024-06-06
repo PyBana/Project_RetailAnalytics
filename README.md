@@ -1,4 +1,4 @@
-# RetailAnalytics
+# Retail Analytics
 
 Introduction
 
