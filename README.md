@@ -1,4 +1,4 @@
-# Sales Analytics
+# Retail Sales Analytics
 
 Introduction
 
